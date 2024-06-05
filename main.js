@@ -104,7 +104,7 @@ function animate(time)
     carctx.globalAlpha=0.2;    // for make cars transparent
     for(let i=0;i<cars.length;i++)
     {
-        bestCar.draw(carctx);
+        cars[i].draw(carctx);
     }
     carctx.globalAlpha=1;
     bestCar.draw(carctx,true);
