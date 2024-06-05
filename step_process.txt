@@ -1,0 +1,17 @@
+step 1 - create a car
+
+step 2 - create a road
+
+step 3 - create sensors 
+
+step 4 - create collision detection with the help of segment intersection
+
+step 5 - generate traffic  ( update collision , sensor to consider traffic )
+
+step 6 - create neural networks
+
+step 7 - drawing network structure
+
+step 8 -making a car AI
+
+step 9 - convert box to car 
